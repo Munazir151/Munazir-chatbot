@@ -1,0 +1,200 @@
+{
+    "name": "Munazir Ansari",
+    "email": "munazir9741@gmail.com",
+    "location": "Bangalore, Karnataka, India",
+    "age": 18,
+    "linkedin": "https://www.linkedin.com/in/munazir-ansari-571027229/",
+    "academic": {
+        "degree": "Bachelor's in Computer Science Engineering",
+        "year": 2,
+        "university": "VTU",
+        "college": "East Point College of Engineering & Technology",
+        "CGPA": 9.15,
+        "achievements": [
+            "Certificate of Appreciation for academic excellence in VTU examinations",
+            "Certificate of Appreciation for 12th-grade science (PCMC) board exam excellence"
+        ]
+    },
+    "career_goal": "Software Engineer",
+    "skills": [
+        "Front-end Development",
+        "UI/UX Design",
+        "Figma",
+        "Python",
+        "Web Development",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "current_roles": [
+        "LetsUpgrade Student Ambassador",
+        "GirlsScript Winter of Blockchain Ambassador"
+    ],
+    "projects": [
+        {
+            "name": "Affinity - Event Management DApp",
+            "date": "Nov 2024",
+            "description": "An innovative Event Management Decentralized Application (DApp) with blockchain integration, featuring user onboarding, event booking, ticket management, and cryptocurrency payments",
+            "features": [
+                "User Onboarding System with Bitcoin login",
+                "Interactive Event Booking System",
+                "Ticket Management with QR codes",
+                "Blockchain Payment Integration",
+                "Responsive Dashboard"
+            ],
+            "technologies": ["UI/UX", "Figma", "Web Design", "User Interface Design", "User Experience (UX)"]
+        },
+        {
+            "name": "Food Delivery App UI/UX",
+            "date": "Nov 2024",
+            "description": "Interactive food delivery app prototype focusing on user experience and modern design",
+            "technologies": ["UI/UX", "Figma"]
+        },
+        {
+            "name": "Calculator",
+            "date": "Sep 2024",
+            "description": "Fully functional calculator website with real-time calculations and responsive design",
+            "features": [
+                "DOM Manipulation",
+                "Responsive Design",
+                "Complex Operations"
+            ],
+            "technologies": ["HTML", "CSS", "JavaScript", "User Interface Design"]
+        },
+        {
+            "name": "Real-Time Weather Website",
+            "date": "Aug 2024",
+            "description": "Weather information website with API integration and data visualization",
+            "features": [
+                "Real-time weather forecasts",
+                "Responsive design",
+                "Dynamic data visualization"
+            ],
+            "technologies": ["HTML", "CSS", "JavaScript", "UI/UX"]
+        },
+        {
+            "name": "Login Page",
+            "date": "Mar 2024",
+            "description": "Responsive login page with modern design",
+            "technologies": ["HTML", "CSS", "Front-End Development"]
+        },
+        {
+            "name": "Netflix Clone",
+            "date": "Feb 2024",
+            "description": "Netflix webpage clone with responsive design",
+            "technologies": ["HTML", "CSS", "Front-End Development"]
+        }
+    ],
+    "internships": [
+        {
+            "company": "CodSoft",
+            "role": "Web Developer",
+            "duration": "2023"
+        }
+    ],
+    "learning_goals": [
+        "React JS",
+        "Python",
+        "Generative AI",
+        "TensorFlow",
+        "Streamlit"
+    ],
+    "extracurricular": {
+        "seminars": [
+            {
+                "name": "Demystifying Gen AI",
+                "role": "Vote of Thanks Speech"
+            },
+            {
+                "name": "5G Technology",
+                "role": "Presenter"
+            }
+        ],
+        "events": [
+            {
+                "name": "Hacktoberfest 2024",
+                "role": "Participant"
+            },
+            {
+                "name": "Designathon",
+                "details": "Participated with teammate Rayan, worked on a problem statement, received stickers and participation certificate"
+            },
+            {
+                "name": "Bengaluru - GenAI Hackathon 2024",
+                "date": "December 6-8, 2024",
+                "status": "Planned"
+            },
+            {
+                "name": "Unfold 2024",
+                "date": "December 1, 2024",
+                "status": "Planned"
+            }
+        ],
+        "hackathons": [
+            {
+                "name": "Hackathon 2024",
+                "details": "Participated in a technical hackathon"
+            }
+        ]
+    },
+    "responses": {
+        "greetings": {
+            "patterns": [
+                "hi", "hello", "hey", "good morning", "good afternoon", 
+                "good evening", "howdy", "what's up", "namaste"
+            ],
+            "responses": [
+                "Hello! How can I help you today?",
+                "Hi there! Nice to meet you!",
+                "Hey! Feel free to ask me anything about my background or skills!",
+                "Hello! I'm Munazir's AI assistant. What would you like to know?"
+            ]
+        },
+        "goodbyes": {
+            "patterns": [
+                "bye", "goodbye", "see you", "take care", "farewell",
+                "catch you later", "have a good day", "until next time"
+            ],
+            "responses": [
+                "Goodbye! Have a great day!",
+                "Take care! Feel free to reach out again!",
+                "Bye! Thanks for chatting!",
+                "See you later! Don't hesitate to connect on LinkedIn!"
+            ]
+        },
+        "thanks": {
+            "patterns": [
+                "thank you", "thanks", "appreciate it", "thank you so much",
+                "thanks a lot", "thank you very much"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "Glad I could assist!",
+                "No problem at all!"
+            ]
+        },
+        "how_are_you": {
+            "patterns": [
+                "how are you", "how're you", "how are you doing",
+                "what's going on", "how's it going"
+            ],
+            "responses": [
+                "I'm doing great! How can I help you today?",
+                "I'm good, thanks for asking! Feel free to ask me anything about my experience or skills!",
+                "Doing well! Would you like to know more about my projects or background?"
+            ]
+        },
+        "projects": {
+            "patterns": [
+                "projects", "portfolio", "what have you built",
+                "show me your work", "your projects"
+            ],
+            "responses": [
+                "Here are my key projects:\n1. Affinity - Event Management DApp (Nov 2024)\n2. Food Delivery App UI/UX (Nov 2024)\n3. Calculator & Weather Website (Aug-Sep 2024)\n4. Login Page & Netflix Clone (Feb-Mar 2024)\nWhich project would you like to know more about?",
+                "I've worked on several projects including:\n- Affinity: A blockchain-based event management DApp\n- Food Delivery App UI/UX\n- Calculator with complex operations\n- Real-time Weather Website\nAsk me about any specific project!"
+            ]
+        }
+    },
+    "bot_response_function": "def get_bot_response(user_input, intents_data):\n    if not user_input:\n        return \"Please ask me something!\"\n    \n    user_input = user_input.lower()\n    \n    # Check basic conversation patterns first\n    for category in ['greetings', 'goodbyes', 'thanks', 'how_are_you']:\n        if any(pattern in user_input for pattern in intents_data['responses'][category]['patterns']):\n            return random.choice(intents_data['responses'][category]['responses'])\n    \n    # Existing response mappings\n    responses = {\n        \"name\": lambda: f\"I am {intents_data.get('name', 'Munazir Ansari')}\",\n        \"education\": lambda: f\"I am pursuing {intents_data.get('academic', {}).get('degree')} at {intents_data.get('academic', {}).get('college')} with a CGPA of {intents_data.get('academic', {}).get('CGPA')}\",\n        \"skills\": lambda: f\"My skills include: {', '.join(intents_data.get('skills', []))}\",\n        \"project\": lambda: f\"My main project is {intents_data.get('projects', [{}])[0].get('name')}: {intents_data.get('projects', [{}])[0].get('description')}\",\n        \"email\": lambda: f\"You can reach me at {intents_data.get('email', 'munazir9741@gmail.com')}\",\n        \"contact\": lambda: \"You can reach me via:\\nEmail: munazir9741@gmail.com\\nLinkedIn: https://www.linkedin.com/in/munazir-ansari-571027229/\",\n        \"linkedin\": lambda: \"Connect with me on LinkedIn: https://www.linkedin.com/in/munazir-ansari-571027229/\",\n        \"location\": lambda: \"I'm based in Bangalore, Karnataka, India\",\n        \"age\": lambda: \"I am 18 years old\",\n        \"about\": lambda: f\"I am {intents_data.get('name')}, an 18-year-old student based in Bangalore, Karnataka. I'm pursuing {intents_data.get('academic', {}).get('degree')} at {intents_data.get('academic', {}).get('college')}. Connect with me on LinkedIn: https://www.linkedin.com/in/munazir-ansari-571027229/ or email me at {intents_data.get('email')}\",\n        \"social\": lambda: \"You can find me on LinkedIn: https://www.linkedin.com/in/munazir-ansari-571027229/\"\n    }\n    \n    for key, response_fn in responses.items():\n        if key in user_input:\n            return response_fn()\n    \n    return \"I'm still learning. You can ask about my education, skills, projects, or contact information including LinkedIn profile!\"\n"
+}
